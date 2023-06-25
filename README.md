@@ -1,0 +1,1 @@
+# OBJECTIVE : Conduct a comprehensive analysis of e-commerce sales performance, showcasing essential metrics including total sales amount, profit, quantity sold, customer distribution, and geographic analysis through effective visualization techniques.
